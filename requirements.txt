@@ -1,0 +1,5 @@
+streamlit>=1.37
+yfinance>=0.2.54
+altair>=5
+pandas
+tzdata
